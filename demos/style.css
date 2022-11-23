@@ -1,0 +1,25 @@
+#highlightDiv {
+    border: solid black 1px;
+    padding: 5px;
+    width: 300px;
+}
+
+#highlightDiv a {
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+}
+
+#canvas {
+    background-image: url('./assets/elephants.jpeg');
+    background-size: cover;
+}
+
+.ui-dialog-titlebar-close {
+  display: none;
+}
+.ui-dialog {
+    background-color: white;
+    border: solid black 1px;
+}
+
